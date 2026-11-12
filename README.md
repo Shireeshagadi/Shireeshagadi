@@ -24,7 +24,7 @@ Data Specialist and Analyst with 2+ years of commercial data environment experie
 ### 💼 Professional Trajectory & Consultation Work
 
 #### 🛠️ Technical Consultant & Data Analyst | *June 2026 – Present*
-* **Structured Testing Architecture:** Scoped full-flow application logic and systematically executed Component Testing (9h), Integration Testing (10h), System Testing (12h), and Defect Resolution (12h) across a strict 55-hour delivery timeline.
+* **Structured Testing Architecture:** Scoped full-flow application logic and systematically executed Component Testing, Integration Testing, System Testing, and Defect Resolution across a strict 55-hour delivery timeline.
 
 ##### 👗 Project 1: Generative AI Fashion-Tech Application (Virtual Try-On Ecosystem)
 * **AI Pipeline Debugging:** Solved multi-stage image generation defects, ensuring user-uploaded data correctly ingested into model pipelines for automated styling layers (Grooming, Wardrobe, and scenario-based prompting profiles).
