@@ -6,8 +6,7 @@ Data Specialist and Analyst with 2+ years of commercial data environment experie
 ---
 
 ### 🛠️ Technical Ecosystem & Toolkit
-* **Data Analytics & ETL:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Advanced MS Excel
-* **Predictive Analytics:** Scikit-Learn, XGBoost, Random Forest, Time-Series Forecasting (LSTM)
+* **Data Analytics & ETL:** SQL, Python, Excel
 * **Modern Tools & Frameworks:** Lovable Ecosystem, Prompt Engineering, Cloud Workspace Resource Tracking
 * **Quality Engineering:** Component, Integration, & System Testing, Agile/Scrum Methodologies
 
@@ -23,7 +22,7 @@ Data Specialist and Analyst with 2+ years of commercial data environment experie
 
 ### 💼 Professional Trajectory & Consultation Work
 
-#### 🛠️ Technical Consultant & Data Analyst | *June 2026 – Present*
+#### 🛠️ Technical Consultant & Data Analyst | *June 2026 – September 2026*
 * **Structured Testing Architecture:** Scoped full-flow application logic and systematically executed Component Testing, Integration Testing, System Testing and Defect Resolution.
 
 ##### 👗 Project 1: Generative AI Fashion-Tech Application (Virtual Try-On Ecosystem)
@@ -38,7 +37,7 @@ Data Specialist and Analyst with 2+ years of commercial data environment experie
 * **Data Cleansing & Integrity:** Conducted comprehensive data quality assessments, formatting sanity checks and missing value logic filters on multi-table corporate datasets.
 * **Business Intelligence Reporting:** Formulated data-driven insights and diagnostic trends to support strategic client growth and risk mitigation decisions.
 
-#### 📊 Corporate Data Analyst | *Schneider Electric* | *2020 – 2022*
+#### 📊 Data Analyst | *Schneider Electric* | *2020 – 2022*
 * **Database Querying:** Engineered complex SQL scripts, subqueries, and multi-table joins to clean, extract and model historical business transactions across enterprise databases.
 * **Insights Delivery:** Conducted deep-dive exploratory data analysis to identify operational bottlenecks, delivering actionable metrics that supported regional leadership decisions.
 * **Workflow Automation:** Re-engineered manual monthly data collection and reporting workflows using Excel macro automation, cutting compilation timelines by 25%.
