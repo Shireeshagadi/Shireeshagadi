@@ -22,7 +22,7 @@ Data Specialist and Analyst with 2+ years of commercial data environment experie
 
 ### 💼 Professional Trajectory & Consultation Work
 
-#### 🛠️ Technical Consultant & Data Analyst | *June 2026 – September 2026*
+#### 🛠️ Data & QA Analyst | *June 2026 – September 2026*
 * **Structured Testing Architecture:** Scoped full-flow application logic and systematically executed Component Testing, Integration Testing, System Testing and Defect Resolution.
 
 ##### 👗 Project 1: Generative AI Fashion-Tech Application (Virtual Try-On Ecosystem)
